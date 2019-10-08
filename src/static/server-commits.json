@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ivan",
+        "message": "Lorem ipsum dollar",
+        "mark": 3,
+        "date": "24.09.2019"
+    },
+    {
+        "name": "Nikolay",
+        "message": "Lorem ipsum fucker",
+        "mark": 5,
+        "date": "24.09.2019"
+    }
+]

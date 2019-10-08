@@ -1,7 +1,14 @@
-# umapp_task
-Тестовое задание на вакансию Frontend-разработчик
+# SPA template
 
-## Для проверки задания 
-  1. cd unmapp_task-master
-  2. npm i
-  3. npm run dev
+## Usage
+This is a template for Single Page Application
+```
+$ cd webpack-spa
+$ npm install
+$ npm run dev
+```
+## What's included
++ PUG
++ Stylus
++ Bootstrap
++ jQuery

@@ -1,0 +1,7 @@
+mixin activeStar(count)
+    - var i = 0;
+    while i < 5
+        if i < count
+            font-awesome-icon.active(:icon="['far', 'star']")
+        else
+            font-awesome-icon(:icon="['far', 'star']")
