@@ -1,14 +1,14 @@
-# SPA template
+# umapp test task
+Тестовое задание на вакансию Frontend-разработчик (Vue)
 
-## Usage
-This is a template for Single Page Application
+## Порядок команд для режима development
 ```
-$ cd webpack-spa
-$ npm install
+$ cd umapp_task-master
+$ npm i
 $ npm run dev
 ```
-## What's included
+## Использовалось
++ Vue.js
 + PUG
 + Stylus
-+ Bootstrap
 + jQuery
