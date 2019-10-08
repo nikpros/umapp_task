@@ -1,5 +1,5 @@
 # umapp test task
-Тестовое задание на вакансию Frontend-разработчик (Vue)
+Тестовое задание на вакансию Frontend-developer (VueJS)
 
 ## Порядок команд для режима development
 ```
